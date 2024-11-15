@@ -41,6 +41,7 @@ public class DemoController {
             "      \"method\": \"GET\",\n" +
             "      \"path\": \"/\",\n" +
             "      \"port\": \"80\",\n" +
+
             "      \"protocol\": \"HTTP/1.1\",\n" +
             "      \"query\": \"option=com_jce%20telnet.exe\",\n" +
             "      \"requestHeaders\": \"User-Agent%3a%20BOT%2f0.1%20(BOT%20for%20JCE)%0d%0aAccept%3a%20text%2fhtml,application%2fxhtml+xml,application%2fxml%3bq%3d0.9,*%2f*%3bq%3d0.8%0d%0auniqueID%3a%20CR_H8%0d%0aAccept-Language%3a%20en-US,en%3bq%3d0.5%0d%0aAccept-Encoding%3a%20gzip,%20deflate%0d%0aConnection%3a%20keep-alive%0d%0aHost%3a%20www.hmapi.com%0d%0aContent-Length%3a%200%0d%0a\",\n" +
